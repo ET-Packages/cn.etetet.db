@@ -1,9 +1,9 @@
 {
   "name": "cn.etetet.db",
   "displayName": "ET.DB",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "unity": "2022.3",
-  "description": "et db",
+  "description": "一个简单的mongodb封装",
   "author": {
     "name": "tanghai",
     "url": "https://github.com/egametang/ET"
@@ -14,7 +14,7 @@
   },
   "relatedPackages": {},
   "dependencies": {
-    "cn.etetet.core": "0.0.1"
+    "cn.etetet.core": "0.0.19"
   },
   "publishConfig": 
   { 
